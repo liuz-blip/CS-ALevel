@@ -122,7 +122,7 @@ Debug.Assert(EatingSweets(pileSizes, numHours) == 6);
 
 
 // ==============================
-// Task 4
+// Task 5
 // ==============================
 
 bool ValidatePassword(string candidate)
